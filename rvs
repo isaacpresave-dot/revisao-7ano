@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Revisão 7º Ano</title>
+<style>
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;font-family:Arial,sans-serif;background:#111;color:#fff}
+.page{min-height:100vh;padding:70px 7vw;display:flex;flex-direction:column;justify-content:center;position:relative;overflow:hidden}
+.page:before{content:"";position:absolute;width:430px;height:430px;border-radius:50%;background:#ffffff12;right:-160px;top:-150px}
+.cover{background:linear-gradient(135deg,#080808,#252525)}.orange{background:linear-gradient(135deg,#e85d04,#ff9f1c)}
+.blue{background:linear-gradient(135deg,#075985,#0ea5e9)}.green{background:linear-gradient(135deg,#166534,#22c55e)}
+.purple{background:linear-gradient(135deg,#581c87,#a855f7)}.red{background:linear-gradient(135deg,#991b1b,#ef4444)}
+.math{background:linear-gradient(135deg,#312e81,#6366f1)}
+h1{font-size:clamp(80px,17vw,210px);line-height:.8;letter-spacing:-10px;margin:0}
+h2{font-size:clamp(48px,8vw,95px);letter-spacing:-3px;margin:0 0 8px}.subtitle{font-size:22px;margin-bottom:32px}
+.cover p{font-size:clamp(20px,3vw,34px);color:#ccc;margin:35px 0}.badge,.tag{display:inline-block;border-radius:99px;padding:9px 15px;font-weight:800;background:#fff;color:#111}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;max-width:1250px}
+.card{background:#00000025;border:1px solid #ffffff2e;border-radius:20px;padding:21px;backdrop-filter:blur(8px)}
+.card h3{margin:0 0 10px;font-size:22px}.card p,.card li{font-size:16px;line-height:1.5;color:#f5f5f5}.card ul{padding-left:20px}
+.example{background:#00000025;border-left:4px solid #fff;padding:12px 15px;border-radius:8px;margin-top:12px}
+.nav{position:fixed;z-index:99;bottom:16px;left:50%;transform:translateX(-50%);display:flex;gap:5px;max-width:95vw;overflow:auto;background:#000b;padding:7px;border-radius:99px;backdrop-filter:blur(12px)}
+.nav a{color:#fff;text-decoration:none;font-size:11px;font-weight:bold;padding:9px 11px;white-space:nowrap;border-radius:99px}.nav a:hover{background:#fff;color:#111}
+@media(max-width:600px){.page{padding:55px 22px 90px}h1{letter-spacing:-5px}.grid{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<nav class="nav">
+<a href="#inicio">INÍCIO</a><a href="#port">PORT</a><a href="#red">RED</a><a href="#cie">CIÊNCIAS</a><a href="#eng">INGLÊS</a><a href="#geo">GEO</a><a href="#his">HISTÓRIA</a><a href="#mat">MAT</a>
+</nav>
+
+<section class="page cover" id="inicio">
+<span class="tag">7º ANO • PROVAS 05–09/10</span>
+<h1>REVISÃO</h1>
+<p>Todo o conteúdo das provas organizado por matéria.</p>
+<span class="badge">ESTUDA AÍ, CRL</span>
+</section>
+
+<section class="page orange" id="port">
+<h2>Português</h2><div class="subtitle">Capítulos 9 e 10</div>
+<div class="grid">
+<div class="card"><h3>📰 Notícia</h3><p>Tem como objetivo <b>informar sobre um fato real e relevante</b>.</p><p>Responde: <b>o quê? quem? quando? onde? como? por quê?</b></p><p><b>Estrutura:</b> título, subtítulo, lide e corpo da notícia.</p></div>
+<div class="card"><h3>🎨 Charge</h3><p>Texto curto que mistura <b>imagem + palavras</b>.</p><p>Geralmente apresenta <b>humor, ironia e crítica</b> sobre uma situação ou acontecimento.</p></div>
+<div class="card"><h3>🔗 Coesão textual</h3><p>É o que conecta as partes do texto.</p><p><b>Substituição pronominal:</b> João chegou. <b>Ele</b> estava cansado.</p><p><b>Substituição lexical:</b> O cachorro fugiu. O <b>animal</b> foi encontrado.</p></div>
+<div class="card"><h3>↩️ Anáfora e catáfora</h3><p><b>Anáfora:</b> retoma algo que já apareceu.</p><div class="example">Maria comprou um livro. <b>Ela</b> começou a ler.</div><p><b>Catáfora:</b> anuncia algo que ainda aparecerá.</p><div class="example"><b>Ele</b> era conhecido: <b>Pelé</b>.</div></div>
+<div class="card"><h3>📜 Texto normativo</h3><p>Apresenta <b>regras, normas ou instruções</b>.</p><p>Ex.: leis, regulamentos, estatutos e regras escolares.</p></div>
+<div class="card"><h3>💌 Carta de solicitação</h3><p>Usada para fazer um pedido formal.</p><p><b>Local/data → destinatário → solicitação → justificativa → despedida → assinatura.</b></p></div>
+<div class="card"><h3>🔎 Prescrição</h3><p>Indica <b>o que deve ser feito</b>.</p><div class="example">“Misture os ingredientes e leve ao forno.”</div></div>
+<div class="card"><h3>🔗 Causalidade</h3><p>Mostra relação de <b>causa e consequência</b>.</p><div class="example">Faltou energia <b>porque</b> houve uma tempestade.</div></div>
+<div class="card"><h3>⏳ Relações temporais</h3><p><b>Anterioridade:</b> aconteceu antes.</p><p><b>Simultaneidade:</b> acontece ao mesmo tempo.</p><p><b>Posterioridade:</b> acontece depois.</p><p><b>Presente:</b> acontece agora ou é habitual.</p></div>
+<div class="card"><h3>🔤 Verbos irregulares</h3><p>Alteram o radical ou a forma de conjugação.</p><p><b>ser → sou | ir → vou | fazer → faço | trazer → trago | dizer → digo</b></p></div>
+</div>
+</section>
+
+<section class="page blue" id="red">
+<h2>Redação</h2><div class="subtitle">Unidade 3 — Imaginação e discernimento</div>
+<div class="grid">
+<div class="card"><h3>🧠 Imaginação</h3><p>Capacidade de <b>criar ideias, imagens e possibilidades</b>.</p></div>
+<div class="card"><h3>🎯 Discernimento</h3><p>Capacidade de <b>analisar e diferenciar</b> o que faz sentido ou não.</p></div>
+<div class="card"><h3>🔎 Informação confiável</h3><ul><li>Veja quem publicou.</li><li>Procure a fonte original.</li><li>Confira a data.</li><li>Compare com outras fontes.</li><li>Desconfie de títulos exagerados.</li><li>Não confie só em prints ou mensagens.</li></ul></div>
+<div class="card"><h3>🦁 Nárnia</h3><p><b>O Leão, a Feiticeira e o Guarda-Roupa — C. S. Lewis.</b></p><p>Peter, Susan, Edmund e Lucy entram em Nárnia pelo guarda-roupa.</p><p>A Feiticeira Branca domina Nárnia. Aslan representa liderança e esperança.</p></div>
+<div class="card"><h3>⚔️ Temas de Nárnia</h3><p><b>Bem × mal • coragem • lealdade • sacrifício • redenção.</b></p><p>Edmund trai os irmãos e depois se arrepende.</p></div>
+<div class="card"><h3>📰 Produção de notícia</h3><p><b>Título → lide → desenvolvimento.</b></p><p>No lide, tente responder: <b>o quê, quem, quando, onde, como e por quê.</b></p><p>Use linguagem objetiva e não invente informações.</p></div>
+</div>
+</section>
+
+<section class="page green" id="cie">
+<h2>Ciências</h2><div class="subtitle">Capítulo 9 — Qualidade de vida e epidemias</div>
+<div class="grid">
+<div class="card"><h3>📈 Evolução da qualidade de vida</h3><p>Avanços em <b>medicina, saneamento, alimentação, higiene, vacinação e tecnologia</b> contribuíram para o aumento da expectativa de vida.</p></div>
+<div class="card"><h3>🦠 Qualidade de vida e epidemias</h3><p>Condições ruins podem facilitar epidemias.</p><p><b>Fatores:</b> falta de saneamento, água contaminada, pouca higiene, aglomerações, pobreza e dificuldade de acesso à saúde.</p></div>
+<div class="card"><h3>☠️ Epidemias históricas</h3><p><b>Peste Negra • Gripe Espanhola • Varíola • Cólera.</b></p><p>Elas provocaram muitas mortes e estimularam mudanças na medicina e na saúde pública.</p></div>
+<div class="card"><h3>🏥 Desenvolvimento da medicina</h3><p><b>Vacinas, antibióticos, anestesia, cirurgias, exames médicos, saneamento e campanhas de vacinação.</b></p></div>
+<div class="card"><h3>📊 Indicadores sociais</h3><p>Educação, moradia e segurança.</p></div>
+<div class="card"><h3>💰 Indicadores econômicos</h3><p>Renda, emprego e distribuição de riqueza.</p></div>
+<div class="card"><h3>❤️ Indicadores de saúde</h3><p>Expectativa de vida, mortalidade infantil e acesso à saúde.</p></div>
+</div>
+</section>
+
+<section class="page purple" id="eng">
+<h2>Inglês</h2><div class="subtitle">Chapters 20, 21 e 22</div>
+<div class="grid">
+<div class="card"><h3>🏠 House</h3><p><b>house</b> casa • <b>bedroom</b> quarto • <b>bathroom</b> banheiro • <b>kitchen</b> cozinha • <b>living room</b> sala • <b>dining room</b> sala de jantar • <b>garage</b> garagem • <b>garden</b> jardim.</p></div>
+<div class="card"><h3>🪑 Furniture</h3><p><b>bed</b> cama • <b>table</b> mesa • <b>chair</b> cadeira • <b>sofa</b> sofá • <b>wardrobe</b> guarda-roupa • <b>desk</b> escrivaninha • <b>bookshelf</b> estante.</p></div>
+<div class="card"><h3>🔧 Past & Present Tools</h3><p>Estude ferramentas antigas e modernas e <b>para que cada uma é utilizada</b>.</p></div>
+<div class="card"><h3>⏳ Past Continuous</h3><p><b>Afirmativa:</b> was/were + verbo-ing.</p><div class="example">I <b>was studying</b>.<br>They <b>were playing</b>.</div><p><b>Negativa:</b> wasn't/weren't + verbo-ing.</p><p><b>Interrogativa:</b> Was/Were + sujeito + verbo-ing?</p></div>
+<div class="card"><h3>🏛️ Astecas, Maias e Incas</h3><p><b>Maias:</b> astronomia e matemática.</p><p><b>Astecas:</b> grande civilização na região do atual México.</p><p><b>Incas:</b> grande império nos Andes.</p></div>
+<div class="card"><h3>🎉 Holidays</h3><p><b>holiday</b> feriado • <b>birthday</b> aniversário • <b>Christmas</b> Natal • <b>New Year's Day</b> Ano-Novo • <b>Easter</b> Páscoa.</p></div>
+<div class="card"><h3>🌱 Collocations</h3><p><b>energy use</b> uso de energia</p><p><b>urban societies</b> sociedades urbanas</p><p><b>future generations</b> futuras gerações</p><p><b>natural resources</b> recursos naturais</p><p><b>sustainable development</b> desenvolvimento sustentável</p></div>
+</div>
+</section>
+
+<section class="page orange" id="geo">
+<h2>Geografia</h2><div class="subtitle">Capítulos 9 e 10 — Nordeste e Centro-Oeste</div>
+<div class="grid">
+<div class="card"><h3>🌵 Nordeste</h3><p>Possui <b>9 estados:</b> BA, SE, AL, PE, PB, RN, CE, PI e MA.</p><p>Climas tropical e semiárido, Mata Atlântica, Caatinga e litoral extenso.</p></div>
+<div class="card"><h3>🌊 Zona da Mata</h3><p>Próxima ao litoral, mais úmida e com maior concentração populacional.</p></div>
+<div class="card"><h3>🌾 Agreste</h3><p>Área de <b>transição</b> entre a Zona da Mata e o Sertão.</p></div>
+<div class="card"><h3>☀️ Sertão</h3><p>Clima <b>semiárido</b>, pouca chuva e presença da Caatinga.</p></div>
+<div class="card"><h3>🌴 Meio-Norte</h3><p>Área de transição entre o Nordeste e a Amazônia.</p></div>
+<div class="card"><h3>🎭 Cultura nordestina</h3><p>Festas juninas, forró, frevo, maracatu, literatura de cordel e culinária regional.</p></div>
+<div class="card"><h3>👥 Demografia</h3><p>População concentrada principalmente no litoral. Grandes cidades: Salvador, Recife e Fortaleza. Houve migrações históricas para outras regiões.</p></div>
+<div class="card"><h3>🌎 Centro-Oeste</h3><p><b>Goiás, Mato Grosso, Mato Grosso do Sul e Distrito Federal.</b></p><p>Biomas: Cerrado, Pantanal e parte da Amazônia.</p></div>
+<div class="card"><h3>🏛️ Brasília</h3><p>A construção de <b>Brasília</b> ajudou na ocupação e integração da região.</p></div>
+<div class="card"><h3>💰 Economia</h3><p>Agricultura, pecuária, soja, milho, criação de gado e mineração.</p></div>
+<div class="card"><h3>🔥 Problemas ambientais</h3><p>Desmatamento, queimadas, perda de biodiversidade e expansão da agropecuária.</p></div>
+<div class="card"><h3>🌱 Desenvolvimento sustentável</h3><p>Busca equilibrar <b>economia + sociedade + preservação ambiental</b>.</p></div>
+</div>
+</section>
+
+<section class="page red" id="his">
+<h2>História</h2><div class="subtitle">Capítulo 9 — América Portuguesa</div>
+<div class="grid">
+<div class="card"><h3>🇵🇹 Colonização</h3><p>Portugal intensificou a ocupação e exploração do território a partir do século XVI.</p><p><b>Objetivos:</b> explorar riquezas, produzir, ocupar o território e fortalecer o domínio português.</p></div>
+<div class="card"><h3>⚙️ Sistema colonial</h3><p>A economia colonial estava ligada aos interesses de Portugal.</p><p>Características: <b>exploração, agricultura, exportação e trabalho escravizado.</b></p></div>
+<div class="card"><h3>🏛️ Capitanias hereditárias</h3><p>O território foi dividido em grandes áreas entregues a <b>donatários</b>, responsáveis por administrar e explorar essas áreas.</p></div>
+<div class="card"><h3>🏛️ Governo-Geral</h3><p>Criado para <b>centralizar a administração colonial</b>.</p></div>
+<div class="card"><h3>🪶 Escravidão indígena</h3><p>Indígenas foram escravizados e obrigados a trabalhar. Houve <b>resistência indígena</b> e atuação de missionários contra determinadas formas de escravização.</p></div>
+<div class="card"><h3>⛓️ Escravidão africana</h3><p>Milhões de africanos foram trazidos à força para as Américas.</p><p>Trabalharam principalmente em <b>engenhos, agricultura, mineração e trabalhos urbanos e domésticos.</b></p></div>
+</div>
+</section>
+
+<section class="page math" id="mat">
+<h2>Matemática</h2><div class="subtitle">Capítulos 8 e 9 — Regra de três e equações</div>
+<div class="grid">
+<div class="card"><h3>🔢 Expressões equivalentes</h3><p>Podem ser escritas de maneiras diferentes e ainda ter o mesmo valor.</p><div class="example"><b>2(x + 3) = 2x + 6</b></div></div>
+<div class="card"><h3>📈 Diretamente proporcionais</h3><p>Quando uma aumenta, a outra também aumenta.</p><div class="example">2 cadernos → R$10<br>4 cadernos → R$20</div></div>
+<div class="card"><h3>📉 Inversamente proporcionais</h3><p>Quando uma aumenta, a outra diminui.</p><div class="example">Mais trabalhadores → menos tempo.</div></div>
+<div class="card"><h3>➗ Regra de três simples</h3><p>3 cadernos custam R$15. Quanto custam 5?</p><div class="example">3 → 15<br>5 → x<br><br>3x = 75<br><b>x = 25</b></div></div>
+<div class="card"><h3>🧮 Regra de três composta</h3><p>Possui <b>mais de duas grandezas</b>.</p><p>Antes de calcular, identifique quais são diretamente e quais são inversamente proporcionais.</p></div>
+<div class="card"><h3>⚖️ Equação do 1º grau</h3><p>É uma igualdade com uma incógnita.</p><div class="example">2x + 4 = 14<br>2x = 10<br><b>x = 5</b></div><p>O que fizer de um lado da igualdade, faça do outro.</p></div>
+<div class="card"><h3>🎯 Raiz da equação</h3><p>É o valor de <b>x</b> que torna a igualdade verdadeira.</p><div class="example">x + 3 = 8<br><b>x = 5</b><br>5 + 3 = 8 ✓</div></div>
+<div class="card"><h3>🧠 Problemas</h3><p>Transforme o texto em uma equação.</p><div class="example">“Pensei em um número. Somando 8, obtive 20.”<br><br>x + 8 = 20<br><b>x = 12</b></div></div>
+</div>
+</section>
+</body>
+</html>
